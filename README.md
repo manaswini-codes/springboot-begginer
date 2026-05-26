@@ -1,2 +1,2 @@
-# springboot-begginer
+# springboot-beginner
 this is myspringboot project
