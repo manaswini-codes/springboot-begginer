@@ -15,4 +15,4 @@ function toggleCard(){
     document.getElementById("userImage").src = user.img;
     document.getElementById("userGender").innerHTML = user.gender;
     document.getElementById("userName").innerHTML = user.name;
-}s
+}
