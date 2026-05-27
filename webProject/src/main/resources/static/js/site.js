@@ -1,5 +1,5 @@
+//alert("Hello from JS");
 console.log("Hello from JS");
-
 var users = [
     {"name" : "John", "gender" : "Male", "img" : "img/john.png"},
     {"name" : "Jane", "gender" : "Female", "img" : "img/jane.png"}
