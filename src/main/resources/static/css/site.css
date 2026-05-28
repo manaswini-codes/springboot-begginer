@@ -14,10 +14,12 @@ p{
     box-shadow: 5px 5px 10px #323030;
 }
 h1 {
+
     margin-left: 20px;
     color: darkblue;
     margin: 10px;
-    box-shadow: 5px 5px 10px #323030;
+    box-shadow: 5px 5px 10px #936ad6;
+    padding: 10px;
 
 }
 
